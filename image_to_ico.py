@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+"""
+dragdrop_to_ico_same_dir.py
+---------------------------
+Drag and drop one or more images onto this script.
+It will convert them into .ico files and save them
+in the same directory as the script itself.
+"""
+
 import sys
 from pathlib import Path
 from PIL import Image
@@ -33,4 +41,3 @@ if __name__ == "__main__":
             convert_to_ico(file, script_dir)
         else:
             print(f"[SKIP] {file.name} (unsupported format)")
-

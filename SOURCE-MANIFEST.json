@@ -1,0 +1,15 @@
+{
+  "snapshot_utc": "2026-11-06T02:04:33.973154+00:00",
+  "checkpoint": "latest local Python utility source",
+  "source_workspaces_modified": false,
+  "files": [
+    {
+      "path": "image_to_ico.py",
+      "bytes": 1393,
+      "sha256": "dbd7cbf3c9bb72a7671a820b7abca36fb562dd3dd1ddd2817f12ac0183ca2b00",
+      "original_sha256": "dbd7cbf3c9bb72a7671a820b7abca36fb562dd3dd1ddd2817f12ac0183ca2b00",
+      "source": "image_to_ico.py",
+      "content_changed": false
+    }
+  ]
+}
